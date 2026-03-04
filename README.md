@@ -11,7 +11,7 @@ Daily build-and-ship log for my Python challenge.
 
 | Day | Project | Repo | Live Demo | Stack | Status | Date |
 |---|---|---|---|---|---|---|
-| 001 | Social Club Name Generator | [Repo](https://github.com/<your-username>/100docp-day-001-social-club-name-generator) | [Live](https://<your-username>.github.io/100docp-day-001-social-club-name-generator/) | Python, HTML, CSS, JavaScript | Done | 2026-03-04 |
+| 001 | Social Club Name Generator | [Repo](https://github.com/yeoamlog/100docp-day-001-social-club-name-generator) | [Live](https://yeoamlog.github.io/100docp-day-001-social-club-name-generator/) | Python, HTML, CSS, JavaScript | Done | 2026-03-04 |
 
 ## Naming Convention
 - Day repo: `100docp-day-XXX-project-slug`
@@ -20,7 +20,6 @@ Daily build-and-ship log for my Python challenge.
 
 Examples:
 - `100docp-day-001-social-club-name-generator`
-- `100docp-day-002-tip-calculator`
 
 ## Repo Strategy
 - This repository (`100DaysofCodePython`) is index-only.
@@ -38,4 +37,4 @@ Examples:
 - Generic day README template:
   - [templates/day-readme-template.md](./templates/day-readme-template.md)
 - Day 1 filled example:
-  - [templates/day-001-social-club-name-generator-readme.md](./templates/day-001-social-club-name-generator-readme.md)
+  - [examples/day-001-social-club-name-generator-readme.md](./examples/day-001-social-club-name-generator-readme.md)

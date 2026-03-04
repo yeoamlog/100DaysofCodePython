@@ -38,3 +38,7 @@ Examples:
   - [templates/day-readme-template.md](./templates/day-readme-template.md)
 - Day 1 filled example:
   - [examples/day-001-social-club-name-generator-readme.md](./examples/day-001-social-club-name-generator-readme.md)
+
+## Acknowledgements
+- Inspired by: [App Brewery - 100 Days of Python](https://github.com/appbrewery/100-days-of-python)
+- This repository contains my own implementations and project variations.
